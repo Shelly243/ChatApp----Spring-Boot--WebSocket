@@ -1,4 +1,4 @@
-package com.one.chat;
+package com.one.chatapp.chat;
 
 public enum MessageType {
 
